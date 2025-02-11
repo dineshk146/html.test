@@ -1,4 +1,4 @@
-# html.test
+# html.practice
 <!DOCTYPE html>
 <html>
     <head>
